@@ -3,8 +3,8 @@
 <h1>Hey, I'm Ghadah <3</h1>
 
 <p>
-Full-stack developer focused on building responsive, real-world applications.<br>
-I care about clean UI, structured backend logic, and products that actually feel good to use.
+Full-stack developer where i  build responsive, real-world applications.<br>
+Fouced on clean UI, structured backend logic, and products that actually feel good to use.
 </p>
 
 </div>
