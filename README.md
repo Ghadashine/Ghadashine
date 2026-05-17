@@ -12,7 +12,7 @@ Fouced on clean UI, structured backend logic, and products that actually feel go
 <br>
 
 <div align="center">
-
+_____________________________________________________________________
 <img src="https://skillicons.dev/icons?i=react" height="45" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=js" height="45" />
@@ -26,3 +26,5 @@ Fouced on clean UI, structured backend logic, and products that actually feel go
 <img src="https://skillicons.dev/icons?i=firebase" height="45" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=tailwind" height="45" />
+
+
