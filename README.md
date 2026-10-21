@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hey, I'm Ghadah <3</h1>
+<h1>I'm Ghadah <3</h1>
 
 <p>
 Full-stack developer where i  build responsive, real-world applications.<br>
