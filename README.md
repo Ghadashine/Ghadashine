@@ -28,10 +28,10 @@ Fouced on clean UI, structured backend logic, and products that actually feel go
 
 | Project        | Description                                                              | Tech                            | Live Site                                                 |
 | -------------- | ------------------------------------------------------------------------ | ------------------------------- | --------------------------------------------------------- |
-| 🌱 EZHAR       | Arabic web app for discovering gardens and plants in Riyadh              | React · Tailwind CSS · Vite     | [ezharplants.vercel.app](https://ezharplants.vercel.app/) |
-| ⚽ SPOT BOOKING | Frontend for browsing matches and booking seats                          | React · Tailwind CSS            | upcoming                                                  |
-| ☕RP            | Responsive coffee shop menu with an interactive ordering experience      | React · Tailwind CSS · Vite     | https://rp-six-eta.vercel.app/                            |
-| 💆 WINDSOME    | Client-facing booking application with available services and time slots | React · Tailwind CSS · Firebase | https://windsome-rho.vercel.app/                          |
+|  EZHAR       | Arabic web app for discovering gardens and plants in Riyadh              | React · Tailwind CSS · Vite     | [ezharplants.vercel.app](https://ezharplants.vercel.app/) |
+|  SPOT BOOKING | Frontend for browsing matches and booking seats                          | React · Tailwind CSS            | upcoming                                                  |
+| RP            | Responsive coffee shop menu with an interactive ordering experience      | React · Tailwind CSS · Vite     | https://rp-six-eta.vercel.app/                            |
+|  WINDSOME    | Client-facing booking application with available services and time slots | React · Tailwind CSS · Firebase | https://windsome-rho.vercel.app/                          |
 
 ---
 
@@ -39,9 +39,9 @@ Fouced on clean UI, structured backend logic, and products that actually feel go
 
 | Project                    | Description                                                                                          | Tech                                               |
 | -------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| 📰 STATION                 | Full-stack article platform with authentication, authorization, pagination, and multilingual support | Java · Spring Boot · Thymeleaf · MySQL             |
-| ⚽ SPOT BOOKING API         | REST API for users, matches, seats, and bookings with authentication and authorization               | Java · Spring Boot · Spring Security · JWT · MySQL |
-| 🔐 **Backend Development** | Building REST APIs, database relationships, authentication, validation, and business logic           | Java · Spring Boot · SQL                           |
+|  STATION                 | Full-stack article platform with authentication, authorization, pagination, and multilingual support | Java · Spring Boot · Thymeleaf · MySQL             |
+|  SPOT BOOKING API         | REST API for users, matches, seats, and bookings with authentication and authorization               | Java · Spring Boot · Spring Security · JWT · MySQL |
+|  **Backend Development** | Building REST APIs, database relationships, authentication, validation, and business logic           | Java · Spring Boot · SQL                           |
 
 > Backend repositories are private because they contain environment variables, credentials, and other sensitive configuration. Technical details and architecture can be discussed separately.
 
