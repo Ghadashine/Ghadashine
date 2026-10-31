@@ -25,13 +25,12 @@ Fouced on clean UI, structured backend logic, and products that actually feel go
 ---
 
 ## Frontend
-
 | Project        | Description                                                              | Tech                            | Live Site                                                 |
 | -------------- | ------------------------------------------------------------------------ | ------------------------------- | --------------------------------------------------------- |
-|  EZHAR       | Arabic web app for discovering gardens and plants in Riyadh              | React · Tailwind CSS · Vite     | [ezharplants.vercel.app](https://ezharplants.vercel.app/) |
-|  SPOT BOOKING | Frontend for browsing matches and booking seats                          | React · Tailwind CSS            |[(https://spotbooking-](https://spotbooking-jx9i.onrender.com)jx9i.onrender.com)                                               |
-| RP            | Responsive coffee shop menu with an interactive ordering experience      | React · Tailwind CSS · Vite     | https://rp-six-eta.vercel.app/                            |
-|  WINDSOME    | Client-facing booking application with available services and time slots | React · Tailwind CSS · Firebase | https://windsome-rho.vercel.app/                          |
+| 🌱 EZHAR       | Arabic web app for discovering gardens and plants in Riyadh              | React · Tailwind CSS · Vite     | [ezharplants.vercel.app](https://ezharplants.vercel.app/) |
+| ⚽ SPOT BOOKING | Frontend for browsing matches and booking seats                          | React · Tailwind CSS            | [upcoming](https://spotbooking-jx9i.onrender.com)         |
+| ☕RP            | Responsive coffee shop menu with an interactive ordering experience      | React · Tailwind CSS · Vite     | https://rp-six-eta.vercel.app/                            |
+| 💆 WINDSOME    | Client-facing booking application with available services and time slots | React · Tailwind CSS · Firebase | https://windsome-rho.vercel.app/                          |
 
 ---
 
